@@ -2,6 +2,22 @@
 
 **This project is in progress!**
 
+### Overview
+
+A location analysis with quantitative and qualitative methodologies
+
+*with what I learn in urban planning and data science* 
+
+*in memory of the previous live house experience*
+
+*for the hope of a better place for subcultural groups like metalheads*
+
+#### Data I plan to use
+
+- quantitative: housing price data - crawl from real estate web, poi(location, attribute, type, etc.) - query from Gaode Map API
+
+- qualitative: historical, archival, and other documents, in-depth interviews, cognitive maps
+
 ## Background
 
 With the launch of certain veiled policy in Beijing, diversion of consumers’ entertainment, and the departure of metalheads in Beijing,  lots of live house have gone out of business in the past two years, leaving the ecstasy in the live a forsaken and distant memory.
